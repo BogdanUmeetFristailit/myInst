@@ -1,7 +1,6 @@
 package com.example.myInst.security;
 
 import com.example.myInst.entity.User;
-import com.zaxxer.hikari.pool.HikariProxyCallableStatement;
 import io.jsonwebtoken.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,1 +1,1 @@
-﻿# myInst
+﻿# myProj
